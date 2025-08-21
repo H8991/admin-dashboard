@@ -31,7 +31,7 @@ body {
 .header-container > div {
     border: 1px solid green;
 }
-/* -----SEARCHBAR--------- */
+/* SEARCHBAR */
 .search-bar-container {
     padding: 10px 0px;
     display: grid;
@@ -53,6 +53,10 @@ form {
     background-color: rgb(238, 236, 236);
     font-size: 1.2em;
     padding-left: 5px;
+}
+/* Profile Area */
+.profile-area {
+    display: grid;
 }
 /* ------------------------------ */
 .sidebar-container {

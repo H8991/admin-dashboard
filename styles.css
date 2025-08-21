@@ -29,7 +29,7 @@ body {
 }
 
 .header-container > div {
-    /* border: 1px solid green; */
+    border: 1px solid green;
 }
 /* SEARCHBAR */
 .search-bar-container {
@@ -59,6 +59,9 @@ form {
     display: grid;
     padding: 10px 0px;
     grid-template-columns: 1fr 1fr 3fr;
+    border-left: 2px dashed grey;
+    border-bottom: 2px dashed grey;
+    border-bottom-left-radius: 10px;
 }
 .profile-area > * {
     align-self: center;
@@ -68,6 +71,18 @@ form {
     display: flex;
     align-items: center;
     gap: 15px;
+}
+/* Message Area */
+.message-area {
+    display: grid;
+    grid-template-columns: 1fr 7fr;
+}
+#profile-icon-msg {
+    align-self: center;
+    justify-self: center;
+}
+.message-area h2 {
+    align-self: center;
 }
 /* ------------------------------ */
 .sidebar-container {

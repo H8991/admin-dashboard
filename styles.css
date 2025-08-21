@@ -23,13 +23,13 @@ body {
     grid-column: 2/3;
 
     display: grid;
-    grid-template-columns: minmax(500px, 2fr) min(300px);
+    grid-template-columns: minmax(500px, 2fr) min(350px);
     grid-template-rows: 2fr 3fr;
     gap: 10px;
 }
 
 .header-container > div {
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 /* SEARCHBAR */
 .search-bar-container {
@@ -83,6 +83,37 @@ form {
 }
 .message-area h2 {
     align-self: center;
+}
+/* Link Area */
+.link-area {
+    display: grid;
+    align-items: center;
+}
+.link-area ul{
+    padding: 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style-type: none;
+    justify-content: center;
+}
+.link-area ul li {
+    justify-self: center;
+
+}
+.link-area button {
+    min-width: 100px;
+    min-height: 50px;
+    border-radius: 20px;
+    background-color: rgb(58, 166, 248);
+    color: white;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+.link-area button:hover {
+    color: rgb(58, 166, 248);
+    background-color: white;
+    box-shadow: 5px 5px black;
 }
 /* ------------------------------ */
 .sidebar-container {

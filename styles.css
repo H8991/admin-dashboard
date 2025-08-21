@@ -54,12 +54,16 @@ body {
 /* Profile Area */
 .profile-area {
     display: flex;
-    /* border: 1px solid red; */
+    border: 1px solid red;
     align-items: center;
     justify-content: space-evenly;
 }
 .profile-area > * {
-    /* border: 1px solid red; */
+    border: 1px solid red;
+}
+#profile-link {
+    text-decoration: none;
+    color: black;
 }
 #profile-container {
     display: flex;

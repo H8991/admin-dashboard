@@ -88,7 +88,7 @@ body {
 .link-area {
     display: grid;
     align-items: end;
-    padding-bottom: 20px;
+    margin: 20px;
 }
 .link-area ul{
     padding: 0px;
@@ -102,13 +102,14 @@ body {
 
 }
 .link-area button {
-    min-width: 100px;
+    min-width: 90px;
     min-height: 50px;
     border-radius: 20px;
     background-color: rgb(58, 166, 248);
     color: white;
     font-weight: bold;
     border: 2px solid black;
+
 }
 .link-area button:hover {
     color: rgb(58, 166, 248);

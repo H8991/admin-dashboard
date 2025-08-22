@@ -179,7 +179,9 @@ body {
     margin-right: 20px;
     filter: invert(1);
 }
-
+#settings {
+    margin-top: 50px;
+}
 
 .main-container {
     background-color: rgb(237, 234, 234);

@@ -255,3 +255,26 @@ body {
 .announcements-container > .announcement:not(:last-child) {
     border-bottom: 1px solid grey;
 }
+
+/* Trending */
+.trending-container {
+    background-color: white;
+    display: grid;
+    grid-template-rows: repeat(4, min);
+    border-radius: 10px;
+    
+}
+.trending {
+    display: flex;
+    border-bottom: 1px solid grey;
+    align-items: center;
+    padding: 20px;
+}
+.trending > div {
+    margin-left: 10px;
+}
+.trending > div > p {
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: .9em;
+}

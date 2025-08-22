@@ -14,6 +14,6 @@ Home - FREEPIK
 Profile - FREEPIK
 Messages - FREEPIK
 History - Tempo_doloe
-Tasks - Juicy_fish
+Tasks - FREEPIK
 Community - Anggara
 }

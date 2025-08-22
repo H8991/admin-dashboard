@@ -33,3 +33,7 @@ Announcements & Trending:
 Profile 1, 2 & 4 - FREEPIK
 Profile 2 - kliwir art
 }
+
+FONT {
+louisgeorge cafe by Chen Yining @dafont.com
+}

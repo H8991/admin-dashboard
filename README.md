@@ -4,11 +4,14 @@ CREDIT:
 
 FLATICON.com
 {
+HEADER:
 Search Icon - FREEPIK 
 Notification Icon - Pixel Perfect
 Profile Icon - Prosymbols Premium
 Settings Icon - FREEPIK
 Profile Icon - FREEPIK
+
+SIDEBAR:
 Logo - FREEPIK
 Home - FREEPIK
 Profile - FREEPIK
@@ -16,7 +19,12 @@ Messages - FREEPIK
 History - Tempo_doloe
 Tasks - FREEPIK
 Community - Anggara
-Settings (sidebar) - Phoenix Group
+Settings - Phoenix Group
 Support - apien
 Privacy - Anggara
+
+MAIN:
+Star - Ilham Fitrotul Hayat
+Eye - Anggara
+Link - FREEPIK
 }

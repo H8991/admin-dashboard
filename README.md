@@ -10,4 +10,10 @@ Profile Icon - Prosymbols Premium
 Settings Icon - FREEPIK
 Profile Icon - FREEPIK
 Logo - FREEPIK
+Home - FREEPIK
+Profile - FREEPIK
+Messages - FREEPIK
+History - Tempo_doloe
+Tasks - Juicy_fish
+Community - Anggara
 }

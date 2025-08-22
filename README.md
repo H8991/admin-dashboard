@@ -24,7 +24,12 @@ Support - apien
 Privacy - Anggara
 
 MAIN:
+Projects:
 Star - Ilham Fitrotul Hayat
 Eye - Anggara
 Link - FREEPIK
+
+Announcements & Trending:
+Profile 1, 2 & 4 - FREEPIK
+Profile 2 - kliwir art
 }

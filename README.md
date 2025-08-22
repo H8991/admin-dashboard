@@ -16,4 +16,7 @@ Messages - FREEPIK
 History - Tempo_doloe
 Tasks - FREEPIK
 Community - Anggara
+Settings (sidebar) - Phoenix Group
+Support - apien
+Privacy - Anggara
 }

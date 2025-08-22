@@ -12,7 +12,6 @@ Settings Icon - FREEPIK
 Profile Icon - FREEPIK
 
 SIDEBAR:
-Logo - FREEPIK
 Home - FREEPIK
 Profile - FREEPIK
 Messages - FREEPIK
